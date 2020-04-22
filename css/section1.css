@@ -1,0 +1,68 @@
+.background1{
+	background-image: url('../img/section1.jpg');
+	background-repeat: no-repeat;
+	width: 1360px;
+	height: 547px;
+	background-size: cover;
+
+
+	
+
+
+	
+}
+
+.block1{
+	padding-top: 100px;
+	padding-left: 5%;
+	margin: 0;
+
+}
+
+.paragraphe1, .paragraphe2{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-size: 25px;
+}
+
+.btn1{
+	padding-top: 5%;
+}
+
+.titre{
+	font-size: 50px;
+	color: #fff;
+}
+
+.button1{
+	background: none;
+	color: #fff;
+	width: 240px;
+	height: 80px;
+	border: 1px solid #0d47a1;
+	font-size: 18px;
+	border-radius: 4px;
+	transition: .6s;
+	overflow: hidden; 
+
+}
+
+.button1:focus {
+	outline: none;
+
+}
+
+
+.button1:hover{
+	background: #0d47a1;
+	cursor: pointer;
+
+}
+
+.button1:hover:before{
+	transform: translateX(300px) skewX(-15deg);
+	opacity: 1;
+	transition: .7s;
+}
+

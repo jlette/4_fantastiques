@@ -1,0 +1,278 @@
+
+/*--================ Section1 =================*/
+.background1{
+	background-image: url('../img/section1.jpg');
+	background-repeat: no-repeat;
+	width: 1360px;
+	height: 600px;
+	background-size: cover;
+
+
+	
+
+
+	
+}
+
+.block1{
+	padding-top: 100px;
+	padding-left: 5%;
+	margin: 0;
+
+}
+
+.paragraphe1, .paragraphe2{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-size: 25px;
+	font-family: Lato;
+}
+
+.btn1{
+	padding-top: 5%;
+}
+
+.titre1{
+	font-size: 50px;
+	color: #fff;
+	font-family: Lato;
+}
+
+.button1{
+	background: none;
+	color: #fff;
+	width: 240px;
+	height: 80px;
+	border: 1px solid #0d47a1;
+	font-size: 18px;
+	border-radius: 4px;
+	transition: .6s;
+	overflow: hidden; 
+
+
+}
+
+.button1:focus {
+	outline: none;
+
+}
+
+
+.button1:hover{
+	background: #0d47a1;
+	cursor: pointer;
+
+}
+
+.button1:hover:before{
+	transform: translateX(300px) skewX(-15deg);
+	opacity: 1;
+	transition: .7s;
+}
+/*--================ Section1 =================*/
+/*--================ Section2 =================*/
+/*--================ block1 =================*/
+
+.background2{
+	background: #90caf9;
+	margin: 0;
+	padding: 0;
+	width: 1360px;
+	height: 300px;
+}
+
+.case1{
+	background: #0d47a1;
+	height: 200px;
+	width: 300px;
+	border-radius: 4px;
+}
+.case1-txt{
+	padding-top: 50px;
+	padding-right: 15px;
+	margin: 0;
+	color: #fff;
+	font-family: Roboto;
+	font-size: 17px;
+	text-align: right;	
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.img-case1{
+	position: absolute;
+	color: #fff;
+	height: 50px
+	margin: 55px;
+	font-size: 75px;
+	padding-top: 10px;
+	padding-left: 10px;
+
+		
+}
+
+.block2_1{
+	padding-left: 150px;
+	padding-top: 53px;
+	position: absolute;
+}
+
+.case1_2-txt{
+	padding-top: 30px;
+	padding-left: 13px;
+	text-align: left;
+	font-size: 15px;
+	color: #fff;
+	font-family: Lato;
+	font-weight: normal;
+
+}
+/*--================ block1 =================*/
+/*--================ block2 =================*/
+.case2{
+	background: #0d47a1;
+	height: 200px;
+	width: 300px;
+	border-radius: 4px;	
+}
+
+.case2-txt{
+	padding-top: 50px;
+	padding-left: 125px;
+	margin: 0;
+	color: #fff;
+	font-family: Roboto;
+	font-size: 17px;
+	text-align: left;	
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.img-case2{
+	position: absolute;
+	color: #fff;
+	height: 50px
+	margin: 55px;
+	font-size: 75px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.case2_2-txt{
+	padding-top: 27px;
+	padding-left: 13px;
+	text-align: left;
+	font-size: 15px;
+	color: #fff;
+	font-family: Lato;
+	font-weight: normal;
+}
+
+.block2_2{
+	padding-left: 525px;
+	padding-top: 53px;
+	position: absolute;
+}
+/*--================ block2 =================*/
+/*--================ block3 =================*/
+
+.case3{
+	background: #0d47a1;
+	height: 200px;
+	width: 300px;
+	border-radius: 4px;
+}
+
+.img-case3{
+	position: absolute;
+	color: #fff;
+	height: 50px
+	margin: 55px;
+	font-size: 75px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.case3-txt{
+	padding-top: 50px;
+	padding-left: 125px;
+	margin: 0;
+	color: #fff;
+	font-family: Roboto;
+	font-size: 17px;
+	text-align: left;	
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.case3_2-txt{
+	padding-top: 25px;
+	padding-left: 13px;
+	text-align: left;
+	font-size: 15px;
+	color: #fff;
+	font-family: Lato;
+	font-weight: normal;
+}
+
+.block2_3{
+	padding-left: 900px;
+	padding-top: 53px;
+	position: absolute;
+}
+/*--================ block3 =================*/
+/*--================ Section3 =================*/
+
+.titre3{
+	text-align: center;
+	font-size: 65px;
+	color: #0d47a1 ;
+	margin: 0;
+	padding: 0;
+}
+
+.ligne{
+	
+	background: #90caf9;
+	height: 2px;
+	width: 150px;
+	border:none;
+	margin: 0;
+	padding: 0;
+
+}
+
+.pos_ligne{
+	padding-left: 45%;
+	padding-top: 15px;
+
+}
+
+.pt1 {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: Lato;
+	color:#0d47a1;
+	font-size: 15px;
+
+}
+
+.pt2{
+	margin: 0;
+	padding: 20;
+	text-align: center;
+	font-family: Lato;
+	color:#0d47a1;
+	font-size: 15px;
+}
+
+.text{
+	padding-top: 20px;
+}
+
+.block3{
+	padding-top: 25px;
+}
+/*--================ Section3 =================*/
